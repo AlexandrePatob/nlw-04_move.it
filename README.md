@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img alt="move.it" title="move.it" src=".github/logo.png" />
-</h1>
+<p align="center">
+  <img src="./public/logo-full.svg" />
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,6 +18,7 @@
 <br>
 
 <p align="center">
+<img alt="Happy" src="https://user-images.githubusercontent.com/49050866/189493336-85ef4ece-d1ba-4b9a-ac54-9ba1b6d5221e.gif" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -50,6 +51,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito by Alexandre Borges [!https://github.com/AlexandrePatob]
+Feito by Alexandre Borges
 
 NLW 04 by Rocketseat 👋🏻
